@@ -1,0 +1,2 @@
+# ExtensionLadderInspection
+
